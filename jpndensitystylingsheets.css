@@ -1,0 +1,25 @@
+/*
+    File: jpndensitystylingsheets.css
+*/
+
+h1 {
+    font-family: sans-serif;
+    color: black;
+    font-weight: 500;
+    font-size: 46px;
+}
+
+/* main body text */
+h4, p, ul, li{
+    font-family: sans-serif;
+}
+
+body{
+    background: #fafcff;
+}
+
+/* styling for region borders */
+path{
+    stroke: #404040;
+    stroke-width: 0.6px;
+}
